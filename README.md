@@ -53,5 +53,7 @@ Game UI
 🛠️ Tech Stack
 
 Backend: Flask, Requests, BeautifulSoup (web scraping)
+
 Frontend: HTML, TailwindCSS, JavaScript (fetch API)
+
 Data Source: quotes.toscrape.com
