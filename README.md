@@ -6,17 +6,12 @@ Built with Flask, BeautifulSoup, and a modern TailwindCSS + JavaScript frontend.
 🎮 Features
 
 🎲 Fetches random quotes from quotes.toscrape.com
-
 🔍 Guess the author with 4 attempts
-
 💡 Progressive hints:
-
 (1) Author’s birth date & location
 (2) First name initial
 (3) Last name initial
-
 ⚡ Modern, responsive UI (TailwindCSS)
-
 🌐 REST API endpoints (/get_quote, /get_hint)
 
 📂 Project Structure
@@ -34,6 +29,7 @@ quote-guessing-game/
     └── ui.png          # UI screenshot(s) for README
 
 ⚙️ Setup & Run
+
 1️⃣ Clone repo
 git clone https://github.com/your-username/quote-guessing-game.git
 cd quote-guessing-game
@@ -57,7 +53,5 @@ Game UI
 🛠️ Tech Stack
 
 Backend: Flask, Requests, BeautifulSoup (web scraping)
-
 Frontend: HTML, TailwindCSS, JavaScript (fetch API)
-
 Data Source: quotes.toscrape.com
